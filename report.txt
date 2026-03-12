@@ -1,0 +1,8 @@
+AquaTorch v1.1 - Rapport de simulation
+------------------------------------------
+Nombre de proies restantes : 50
+Nombre de requins : 5
+Énergie moyenne des proies : -125.56
+Énergie moyenne des requins : 765.00
+Vitesse de simulation : 3.0x
+------------------------------------------

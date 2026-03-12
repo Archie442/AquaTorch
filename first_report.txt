@@ -1,0 +1,10 @@
+This is the first report of the first simulation of the code
+
+AquaTorch v1.0 - Rapport de simulation
+------------------------------------------
+Nombre de proies restantes : 50
+Nombre de requins : 5
+�nergie moyenne des proies : -5.67
+�nergie moyenne des requins : 314.90
+Vitesse de simulation : 3.0x
+------------------------------------------
